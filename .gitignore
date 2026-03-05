@@ -3,7 +3,7 @@
 
 # CMake build directories
 cmake-build-*/
-
+CMakeLists.txt
 # Object files, executables
 *.o
 *.obj
