@@ -1,0 +1,17 @@
+# CLion
+.idea/
+
+# CMake build directories
+cmake-build-*/
+
+# Object files, executables
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Backup files
+*~
